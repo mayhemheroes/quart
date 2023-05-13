@@ -1,0 +1,7 @@
+project: quart
+target: router
+duration: 300
+
+cmds:
+  - cmd: python3 /quart/fuzz/fuzz_targets/router.py
+    libfuzzer: true
