@@ -1,7 +1,0 @@
-project: quart
-target: json
-duration: 300
-
-cmds:
-  - cmd: python3 /quart/fuzz/fuzz_targets/json.py
-    libfuzzer: true
