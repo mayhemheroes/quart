@@ -1,0 +1,5 @@
+target
+corpus
+artifacts
+fuzz_targets/filename.json
+fuzz_targets/filename.toml
